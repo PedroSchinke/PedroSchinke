@@ -2,7 +2,7 @@
 
 ## Sobre Mim
 
-Sou Pedro de Oliveira Schinke, um desenvolvedor apaixonado por tecnologia e análise de dados. Tenho 22 anos e sou natural de Porto Alegre, Rio Grande do Sul. Procuro uma empresa onde possa crescer e desenvolver minhas habilidades técnicas e profissionais, sempre buscando agregar qualidade, trabalho em equipe, experiência e ética ao ambiente de trabalho.
+Olá! Meu nome é Pedro e sou um desenvolvedor apaixonado por tecnologia. Tenho 22 anos e sou natural de Porto Alegre, Rio Grande do Sul. Procuro uma empresa onde possa crescer e desenvolver minhas habilidades técnicas e profissionais, sempre buscando agregar qualidade, trabalho em equipe, experiência e ética ao ambiente de trabalho.
 
 ## Contato
 
@@ -45,7 +45,7 @@ Sou Pedro de Oliveira Schinke, um desenvolvedor apaixonado por tecnologia e aná
 
 ## Portfólio de Projetos
 
-Meu portfólio foi desenvolvido utilizando React.js, TypeScript e Vite, e apresenta meus principais projetos junto a um breve cartão de apresentação.
+Meu portfólio foi desenvolvido por mim utilizando React.js, TypeScript e Vite, e apresenta meus principais projetos junto a um breve cartão de apresentação.
 
 - [Portfólio Pedro Schinke](http://portfolio-pedro-schinke.s3-website-us-east-1.amazonaws.com/)
 
