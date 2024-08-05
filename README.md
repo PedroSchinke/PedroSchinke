@@ -17,7 +17,7 @@ Olá! Meu nome é Pedro e sou um desenvolvedor apaixonado por tecnologia. Tenho 
 - ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 - ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 - ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
-- ![Static Badge](https://img.shields.io/badge/PHP?style=flat-square&logo=php&logoColor=white&color=purple)
+- ![PHP](https://img.shields.io/badge/-PHP-726FF4?style=flat-square&logo=php&logoColor=white)
 - ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
 ### Markup e Estilização
