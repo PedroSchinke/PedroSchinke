@@ -2,7 +2,7 @@
 
 ## Sobre Mim
 
-Olá! Meu nome é Pedro e sou um desenvolvedor apaixonado por tecnologia. Tenho 22 anos e sou natural de Porto Alegre, Rio Grande do Sul. Procuro uma empresa onde possa crescer e desenvolver minhas habilidades técnicas e profissionais, sempre buscando agregar qualidade, trabalho em equipe, experiência e ética ao ambiente de trabalho.
+Olá! Meu nome é Pedro e sou um desenvolvedor apaixonado por tecnologia. Tenho 22 anos e sou natural de Porto Alegre, Rio Grande do Sul. Procuro uma empresa onde possa crescer e desenvolver minhas habilidades técnicas e profissionais, sempre buscando agregar qualidade, trabalho em equipe, experiência e ética ao ambiente de trabalho. Estudante de Sistemas de Informação na Unisinos-POA.
 
 ## Contato
 
