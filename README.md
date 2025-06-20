@@ -2,8 +2,11 @@
 
 ## Sobre Mim
 
-Olá! Meu nome é Pedro e sou um desenvolvedor apaixonado por tecnologia. Tenho 22 anos e sou natural de Porto Alegre, Rio Grande do Sul. Procuro uma empresa onde possa crescer e desenvolver minhas habilidades técnicas e profissionais, sempre buscando agregar qualidade, trabalho em equipe, experiência e ética ao ambiente de trabalho. Estudante de Sistemas de Informação na Unisinos-POA.
+Olá! Me chamo Pedro, sou natural de Porto Alegre, Rio Grande do Sul e tenho 23 anos. Há aproximadamente dois anos comecei minha jornada como desenvolvedor, estudando através de cursos e projetos pessoais. Depois de alguns meses, comecei a cursar Sistemas de Informação na Unisinos-POA.
+ 
+Após esse período de muito estudo e dedicação consegui minha primeira oportunidade de estágio em desenvolvimento de software na DBSeller Sistemas Integrados, onde estou atuando desde julho de 2024, exercendo funções de desenvolvimento e manutenção de softwares complexos voltados para gestão pública utilizando PHP, Laravel, Vue.js, Angular, PostgreSQL entre outros. Dentre minhas conquistas na DBSeller, estão o desenvolvimento de uma plataforma de monitoramento de jobs em tempo real utilizando conexões websocket e uma API de geolocalização de IPs. Ambas dispensaram serviços externos que gerariam despesas para a empresa.
 
+Me considero uma pessoa muito ambiciosa e tenho grandes planos para o futuro, por isso prezo por ambientes de trabalho prósperos para o desenvolvimento do colaborador.
 ## Contato
 
 - **Endereço:** Porto Alegre, Rio Grande do Sul, 91350-170
